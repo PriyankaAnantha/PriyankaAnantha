@@ -15,7 +15,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
-Yeah! that's on me.😂
+Call it well-sorted?😂
 
 ## 
 
