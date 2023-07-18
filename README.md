@@ -14,7 +14,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://activity-graph.herokuapp.com/graph?username=PriyankaAnantha&theme=react-dark&hide_border=true&area=true)<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaAnantha"><img src="https://github-readme-stats.vercel.app/api?username=PriyankaAnantha&count_private=true&show_icons=true&theme=light" alt="Priyanka's github stats"/>
+![](https://activity-graph.herokuapp.com/graph?username=PriyankaAnantha&theme=react-dark&hide_border=true&area=true) [![GitHub Streak](https://streak-stats.demolab.com?user=PriyankaAnantha&hide_border=true&border_radius=0.8&card_width=400)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAnantha&count_private=true&show_icons=true&theme=light" alt="Priyanka's github stats"/>
  
  
  [![](https://visitcount.itsvg.in/api?id=PriyankaAnantha&icon=2&color=7)](https://visitcount.itsvg.in)
