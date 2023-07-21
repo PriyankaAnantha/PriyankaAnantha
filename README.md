@@ -43,9 +43,8 @@
 
 <h3 align="center"> 😶😌 Dose of bad jokes </h3>
 <div align ="center">
-        
+	
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 </div>
 
 
