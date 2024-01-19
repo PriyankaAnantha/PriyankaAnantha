@@ -16,9 +16,8 @@
 <div align="center">
 
         About me: 
-        🧠 Incoming junior year comp.sci undergrad 
+        🧠 Junior year comp.sci undergrad 
         embarking on a data-driven journey where the *nonfamiliar* becomes familiar. 
-        I'm into: 
         {  📊 Data Science  | 💻 Competitive Programming   | 🖌️ Design  | 🧪 Experimentations with Tech }
 
  </div>
@@ -35,15 +34,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAnantha&count_private=true&show_icons=true&theme=light" alt="PriyankaAnantha's github stats"/>
 </div>
-
-## 
-
-<h3 align="center"> 😶😌 Dose of bad jokes </h3>
-<div align ="center">
-	
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
-
 
 ##
 <h4 align="center"> I'm just here exploring for now! Wanna connect/ collaborate? Follow up/ reach out! </h4>
