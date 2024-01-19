@@ -1,18 +1,14 @@
 <h3 align="center">  Hi there👋 </h3>
 
+<!-- 
 <div align="center">
+
 <table>
   <tr>
       <td><a href="https://github.com/PriyankaAnantha"><img src="https://img.shields.io/github/followers/PriyankaAnantha.svg?label=GitHub&style=social" alt="GitHub"></a></td>
       <td><a href="https://linkedin.com/in/priyanka-anantha"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
       <td><img src="https://komarev.com/ghpvc/?username=PriyankaAnantha" alt="devded" /></td>
-        <td> <--👩‍💻--> </td> 
-  </tr>
-</table>
-
-![Motto](./starwarsday.gif)
-</div>
-
+        <td> <--👩‍💻--> </td>  </tr></table>![Motto](./starwarsday.gif)</div> -->
 <div align="center">
 
         About me: 
