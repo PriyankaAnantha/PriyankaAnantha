@@ -8,7 +8,8 @@
       <td><a href="https://github.com/PriyankaAnantha"><img src="https://img.shields.io/github/followers/PriyankaAnantha.svg?label=GitHub&style=social" alt="GitHub"></a></td>
       <td><a href="https://linkedin.com/in/priyanka-anantha"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
       <td><img src="https://komarev.com/ghpvc/?username=PriyankaAnantha" alt="devded" /></td>
-        <td> <--👩‍💻--> </td>  </tr></table>![Motto](./starwarsday.gif)</div> -->
+        <td> <--👩‍💻--> </td>  </tr></table> 
+<!--  ![Motto](./starwarsday.gif)</div> -->
 <div align="center">
 
         About me: 
@@ -20,16 +21,14 @@
 
 
 
-<h3 align="center"> Github stats </h3>
-
-<div align="center">
-        
-![](https://activity-graph.herokuapp.com/graph?username=PriyankaAnantha&theme=react-dark&hide_border=true&area=true)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaAnantha">
+<!--  <h3 align="center"> Github stats </h3> <div align="center"> ![](https://activity-graph.herokuapp.com/graph?username=PriyankaAnantha&theme=react-dark&hide_border=true&area=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaAnantha">
 
 <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAnantha&count_private=true&show_icons=true&theme=light" alt="PriyankaAnantha's github stats"/>
-</div>
+</div>-->
+        
+
+
+
 
 ##
 <h4 align="center"> I'm just here exploring for now! Wanna connect/ collaborate? Follow up/ reach out! </h4>
